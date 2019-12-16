@@ -10,7 +10,7 @@ Magic 8 ball
 
 Quizzler
 
-The Following projects are web apps built with HTML, CSS, and Node.js:
+The following projects are web apps built with HTML, CSS, and Node.js:
 
 Mach Red
 
