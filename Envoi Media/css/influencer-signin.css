@@ -1,0 +1,65 @@
+body {
+  background-color:#303943;
+}
+h3 {
+  font-family: 'Minion Pro';
+}
+a{
+  color: #0C789A;
+}
+a:hover {
+  color: #98BBD9;
+}
+p {
+  color: #212226;
+}
+
+/* Main Block */
+
+.main-block {
+  background-color: #212226;
+  color: #fff;
+  font-family: "Brandon Grotesque";
+  min-height: 425px;
+  min-width: 400px;
+  max-width: 528px;
+  max-height: 500px;
+  border-radius: 10px;
+  margin: 10% auto;
+}
+
+/* TItle of main block */
+.left-title {
+  color: #0C7497;
+}
+.back-arrow {
+  padding-top: 6%;
+}
+.center-title {
+  text-align: center;
+  font-family: 'Minion Pro';
+  font-size: 40pt;
+  margin: 5% 0;
+}
+.create-account {
+  color: #FFF;
+  background-color: #0C7497;
+  border-color: #0C7497;
+  border-radius: 40px;
+  width: 130px;
+}
+.create-account:hover {
+  color: #FFF;
+  background-color: #98BBD9;
+  border-color: #98BBD9;
+}
+/* Form of Main Block  */
+.form-label {
+  margin: 3% 5%;
+}
+.form-group {
+  width: 360px;
+}
+form {
+  padding: 0 0 0 2%;
+}

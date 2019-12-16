@@ -1,0 +1,132 @@
+/* GLobal  */
+body {
+  font-family: "Brandon Grotesque";
+  background-color: #303943;
+}
+h2{
+  font-family: "Minion Pro";
+}
+h3{
+  font-family: "Minion Pro";
+}
+h4{
+  font-family: "Minion Pro";
+}
+h5 {
+  font-family: "Brandon Grotesque"
+}
+input {
+  font-family: "Brandon Grotesque";
+  color: #212226;
+}
+select {
+  background-color: #212226;
+}
+p {
+  margin: 0;
+}
+a:hover {
+  text-decoration: none;
+}
+/* Sections */
+.sections {
+  background-color: #303943;
+  color: #fff;
+  padding: 2% 20% 7%;
+  position: relative;
+}
+.description {
+  text-align: center;
+  margin: 0 5% 5%;
+}
+/* Navbar */
+.navbar-custom {
+    background-color: #0C789A;
+    font-family: 'Brandon Grotesque';
+    font-size: 12pt;
+}
+.navbar-brand {
+  font-family: 'Minion Pro';
+  font-size: 16pt;
+  margin: 0 0;
+  padding: 0 0;
+}
+.nav-item {
+  padding: 0 10px;
+}
+.dropdown-style {
+  background-color: #212226;
+}
+.dropdown-item {
+  color: #0C789A;
+}
+.dropdown-item:hover {
+  background-color: #98BBD9;
+  color: #212226;
+}
+/* Buttons */
+.btn {
+  font-family: 'Brandon Grotesque';
+}
+.btn-primary {
+  background-color: #0C789A;
+  border-color: #0C789A;
+}
+.btn-primary:hover {
+  background-color: #98BBD9;
+  border-color: #98BBD9;
+}
+.btn-dark {
+  background-color: #212226;
+  color: #fff;
+}
+.btn-dark:hover{
+  background-color: #98BBD9;
+  border-color: #98BBD9;
+}
+.btn-outline-dark {
+  background-color: #212226;
+  color: #fff;
+  border: 1px solid white;
+}
+.btn-outline-dark:hover {
+  background-color: white;
+  color: #212226;
+  border: 1px solid white;
+}
+.btn-light {
+  background-color: inherit;
+  color:#fff;
+  border: none;
+}
+.btn-light:hover {
+  background-color: inherit;
+  color: #98BBD9;
+  border: none;
+}
+.btn-secondary {
+  background-color: #303943;
+  color: #fff;
+  border: none;
+}
+.btn-secondary:hover {
+  background-color: #98BBD9;
+  color: #fff;
+  border: none;
+}
+/* Footer */
+footer{
+  background-color: #0C789A;
+  color: #fff;
+  padding: 2% 3% 1%;
+  text-align: left;
+}
+.footer-icons {
+  margin: 0 10px;
+  color: white;
+  font-size: 1.5rem;
+  font-family: "Minion Pro";
+}
+.footer-icons:hover {
+  color: white;
+}

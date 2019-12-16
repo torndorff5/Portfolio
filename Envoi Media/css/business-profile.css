@@ -1,0 +1,13 @@
+/* Product Section */
+.product-container{
+  position: relative;
+}
+.product-button {
+  position: absolute;
+  top: 0;
+  right: 2%;
+}
+/* Modal */
+.modal-card {
+  margin: 20% auto 5%;
+}

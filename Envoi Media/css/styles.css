@@ -1,0 +1,105 @@
+p {
+  font-family: "Brandon Grotesque";
+}
+h3 {
+  font-family: "Minion Pro";
+  font-size: 24pt;
+  align-content: center;
+  justify-content: center;
+}
+i {
+  font-size: 3rem;
+}
+/* Navbar */
+.custom-navbar {
+  color: #98BBD9;
+  border-color: #98BBD9;
+  border-radius: 10px;
+  font-family: 'Brandon Grotesque';
+  font-weight: normal;
+}
+.custom-navbar::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #98BBD9;
+  font-family: 'Brandon Grotesque';
+  font-weight: normal;
+  opacity: 1; /* Firefox */
+}
+.custom-navbar:focus {
+  border: 3px solid #212226;
+  color: #212226;
+}
+.log-in-form{
+  width: 466px;
+}
+.log-in {
+  color: #FFF;
+  background-color: #212226;
+  border-color: #212226;
+  border-radius: 40px;
+}
+.log-in:hover {
+  color: #FFF;
+  background-color: #0C7497;
+  border-color: #0C7497;
+}
+
+/* Right Div */
+h1 {
+  font-family: 'Minion Pro';
+}
+.right-div{
+  flex: 1;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 0%;
+  position: relative;
+}
+.landing-copy {
+  margin: 30% auto;
+  max-width: 466px;
+  color: #212226;
+  padding: 0 10px;
+}
+.btn-row {
+  padding: 3% 0;
+}
+.btn-landing {
+  color: #fff;
+  font-family: "Brandon Grotesque";
+  border-radius: 40px;
+  width: 466px;
+}
+.btn-influence {
+  background-color: #212226;
+}
+.btn-influence:hover {
+  background-color: #98BBD9;
+  color: #fff;
+}
+.btn-business {
+  background-color: #0C7497;
+}
+.btn-business:hover {
+  background-color: #98BBD9;
+  color: #fff;
+}
+
+/* Left Div */
+.left-div {
+  background-image: linear-gradient(#0C7497, 40%, #212226);
+}
+.infogram {
+  color: #fff;
+  width: 400px;
+  height: 400px;
+  margin: 30% auto;
+}
+.static-icon {
+  margin: 0 16px 0 0;
+}
+.arrow-icon {
+  font-size: 5.5rem;
+}
+.icon-row {
+  padding: 8% 10%;
+}

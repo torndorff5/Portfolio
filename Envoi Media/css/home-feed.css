@@ -1,0 +1,46 @@
+/* Sections */
+
+/* Search Bar */
+.search-section {
+  padding: 3% 25% 3%;
+}
+
+/* Feed */
+.feed-card {
+  border-radius: 100%;
+}
+.image-description {
+  background-color: #212226;
+  text-align: left;
+  border-radius: 10px 0 0 10px;
+}
+.image-desc-text {
+  margin: 10% 10%;
+}
+.feed-img {
+  object-fit: cover;
+  width: 100% ;
+  height: 100%;
+  border-radius: 0 10px 10px 0;
+}
+.feed-img-div {
+  padding: 0;
+}
+.feed-button {
+  margin-top: 7%;
+  margin-bottom: 0;
+}
+@media (max-width: 992px){
+  .image-description {
+    border-radius: 10px 10px 0 0;
+  }
+  .feed-img {
+    border-radius: 0 0 10px 10px;
+  }
+}
+@media (max-width: 768px){
+  .sections {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
